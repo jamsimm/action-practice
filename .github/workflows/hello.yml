@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Say Hello
-        run: echo "👋 Hello from your first GitHub Action!"
+        run: echo "👋 Hello i edited GitHub Action!"
